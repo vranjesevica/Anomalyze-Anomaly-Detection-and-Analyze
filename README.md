@@ -108,14 +108,20 @@ If you are using a Mac with an Apple Silicon chip (M1, M2, etc.), PyTorch suppor
 
 ### Version 1 Results
 As we can see my Autoencoder is able to reconstruct images in the way that separetes anomalies and is able to mark them. 
-<img src='https://github.com/user-attachments/assets/6a6e7928-ba9c-4ad4-8294-3b6fdf17d527'>
-<img src='https://github.com/user-attachments/assets/2324f24e-3a3e-4b26-865a-e29dde7e9858'>
+<div>
+    <img src='https://github.com/user-attachments/assets/6a6e7928-ba9c-4ad4-8294-3b6fdf17d527'>
+    <img src='https://github.com/user-attachments/assets/2324f24e-3a3e-4b26-865a-e29dde7e9858'>
+</div>
+
 
 
 ### Version 2 Results
 On the images below it is shown that model recognises on which images there is anomaly detected and on which images there is no anomaly.
-<img src='https://github.com/user-attachments/assets/c21fe4a0-17ff-49af-8e23-75dd3fafad10'>
-<img src='https://github.com/user-attachments/assets/c6809978-2835-4c26-97e2-d4fece172441'>
-<img src='https://github.com/user-attachments/assets/f5361d30-52df-403b-9df9-18798c40d98e'>
-<img src='https://github.com/user-attachments/assets/1cbae527-884e-4bc3-be36-0688003e2ad4'>
+<div>
+    <img src='https://github.com/user-attachments/assets/c21fe4a0-17ff-49af-8e23-75dd3fafad10'>
+    <img src='https://github.com/user-attachments/assets/c6809978-2835-4c26-97e2-d4fece172441'>
+    <img src='https://github.com/user-attachments/assets/f5361d30-52df-403b-9df9-18798c40d98e'>
+    <img src='https://github.com/user-attachments/assets/1cbae527-884e-4bc3-be36-0688003e2ad4'>
+</div>
+
 
